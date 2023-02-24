@@ -1,2 +1,3 @@
 # blog
-My Dev.to blog post
+
+My Dev.to and Medium blog post
