@@ -1,2 +1,2 @@
 # blog
-My Blog Post
+My Dev.to blog post
