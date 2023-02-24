@@ -1,0 +1,9 @@
+baseURL = 'https://agussudarmanto.github.io/'
+languageCode = 'en-us'
+title = 'Agus Sudarmanto Blog'
+theme = 'github-style'
+
+lastmod = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
