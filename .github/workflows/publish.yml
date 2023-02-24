@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: blogpub
-        uses: protiumx/blogpub@v0.8.0
+        uses: agussudarmanto/blogpub@main
         with:
           articles_folder: content/post
           devto_api_key: ${{ secrets.DEVTO_API_KEY }}
