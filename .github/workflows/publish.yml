@@ -19,10 +19,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: blogpub
-        uses: protiumx/blogpub@main
+        uses: protiumx/blogpub@v0.8.0
         with:
           articles_folder: content/post
           devto_api_key: ${{ secrets.DEVTO_API_KEY }}
-          gh_token: ${{ secrets.GH_TOKEN }}
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           medium_token: ${{ secrets.MEDIUM_TOKEN }}
           medium_user_id: ${{ secrets.MEDIUM_USER_ID }}
