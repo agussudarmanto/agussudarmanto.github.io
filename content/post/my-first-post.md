@@ -1,6 +1,6 @@
 ---
-title: Introduction!
-description: Testing Hugo website
+title: Membuat GitHub Action
+description: Membuat github action dengan Hugo
 # tags: opensource, cloud, business, investing, technology
 license: all-rights-reserved
 date: 2023-02-24T15:59:47+07:00
